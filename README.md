@@ -1,7 +1,6 @@
+[Check Live link](https://kryptomastery.com/)
 # TransferCrypto
-an open source project to send and receive cryptocurrencies all over the world without boundaries or restrictions, dangerous but we need it.
+## An exchange app based on ethereum (Only L1)
 
+I didn't deploy the project yet, but it's a clone from the one showed in the link
 
-
-I didn't deply the project yet, but it's similar to this one:
-https://kryptomastery.com/
