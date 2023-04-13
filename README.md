@@ -1,4 +1,3 @@
-[Check Live link](https://kryptomastery.com/)
 # TransferCrypto
 ## An exchange app based on ethereum (Only L1)
 
